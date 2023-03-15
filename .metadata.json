@@ -2,5 +2,25 @@
   {
     "package": "bigQF",
     "oncran": true
+  },
+  {
+    "package": "DHBins",
+    "oncran": true
+  },
+  {
+    "package": "hextri",
+    "oncran": true
+  },
+  {
+    "package": "rimu",
+    "oncran": true
+  },
+  {
+    "package": "svyVGAM",
+    "oncran": true
+  },
+  {
+    "package": "xkcdcolors",
+    "oncran": true
   }
 ]

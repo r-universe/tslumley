@@ -8,3 +8,28 @@
 	url = https://github.com/tslumley/bigqf
 	shallow = true
 	registered = true
+[submodule "DHBins"]
+	path = DHBins
+	url = https://github.com/tslumley/dhbins
+	shallow = true
+	registered = true
+[submodule "hextri"]
+	path = hextri
+	url = https://github.com/tslumley/hextri
+	shallow = true
+	registered = true
+[submodule "rimu"]
+	path = rimu
+	url = https://github.com/tslumley/rimu
+	shallow = true
+	registered = true
+[submodule "svyVGAM"]
+	path = svyVGAM
+	url = https://github.com/tslumley/svyvgam
+	shallow = true
+	registered = true
+[submodule "xkcdcolors"]
+	path = xkcdcolors
+	url = https://github.com/tslumley/xkcdcolors
+	shallow = true
+	registered = true
