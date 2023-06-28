@@ -1,55 +1,34 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bigQF"]
 	path = bigQF
 	url = https://github.com/tslumley/bigqf
-	shallow = true
-	registered = true
 [submodule "DHBins"]
 	path = DHBins
 	url = https://github.com/tslumley/dhbins
-	shallow = true
-	registered = true
 [submodule "hextri"]
 	path = hextri
 	url = https://github.com/tslumley/hextri
-	shallow = true
-	registered = true
 [submodule "leaps"]
 	path = leaps
 	url = https://github.com/cran/leaps
-	shallow = true
-	registered = true
 [submodule "mitools"]
 	path = mitools
 	url = https://github.com/cran/mitools
-	shallow = true
-	registered = true
 [submodule "rimu"]
 	path = rimu
 	url = https://github.com/tslumley/rimu
-	shallow = true
-	registered = true
 [submodule "rmeta"]
 	path = rmeta
 	url = https://github.com/cran/rmeta
-	shallow = true
-	registered = true
 [submodule "survey"]
 	path = survey
 	url = https://github.com/cran/survey
-	shallow = true
-	registered = true
 [submodule "svyVGAM"]
 	path = svyVGAM
 	url = https://github.com/tslumley/svyvgam
-	shallow = true
-	registered = true
 [submodule "xkcdcolors"]
 	path = xkcdcolors
 	url = https://github.com/tslumley/xkcdcolors
-	shallow = true
-	registered = true
