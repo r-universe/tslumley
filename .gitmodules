@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bigQF"]
-	path = bigQF
-	url = https://github.com/tslumley/bigqf
 [submodule "DHBins"]
 	path = DHBins
 	url = https://github.com/tslumley/dhbins
+[submodule "bigQF"]
+	path = bigQF
+	url = https://github.com/tslumley/bigqf
 [submodule "hextri"]
 	path = hextri
 	url = https://github.com/tslumley/hextri
