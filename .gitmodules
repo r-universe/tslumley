@@ -23,9 +23,6 @@
 [submodule "rmeta"]
 	path = rmeta
 	url = https://github.com/cran/rmeta
-[submodule "survey"]
-	path = survey
-	url = https://github.com/cran/survey
 [submodule "svyVGAM"]
 	path = svyVGAM
 	url = https://github.com/tslumley/svyvgam
