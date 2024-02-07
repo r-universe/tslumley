@@ -26,6 +26,9 @@
 [submodule "svyVGAM"]
 	path = svyVGAM
 	url = https://github.com/tslumley/svyvgam
+[submodule "svylme"]
+	path = svylme
+	url = https://github.com/tslumley/svylme
 [submodule "xkcdcolors"]
 	path = xkcdcolors
 	url = https://github.com/tslumley/xkcdcolors
