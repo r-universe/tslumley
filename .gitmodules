@@ -8,6 +8,9 @@
 [submodule "bigQF"]
 	path = bigQF
 	url = https://github.com/tslumley/bigqf
+[submodule "biglm"]
+	path = biglm
+	url = https://github.com/cran/biglm
 [submodule "hextri"]
 	path = hextri
 	url = https://github.com/tslumley/hextri
