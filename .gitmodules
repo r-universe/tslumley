@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/tslumley/tslumley.r-universe.dev
 	branch = HEAD
 [submodule "DHBins"]
 	path = DHBins
@@ -17,6 +17,9 @@
 [submodule "leaps"]
 	path = leaps
 	url = https://github.com/cran/leaps
+[submodule "missreg3"]
+	path = missreg3
+	url = https://github.com/tslumley/missreg3
 [submodule "mitools"]
 	path = mitools
 	url = https://github.com/cran/mitools
